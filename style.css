@@ -115,52 +115,52 @@ nav{
 
 /* Sections */
 section{
-   padding-top:4vh;
-   height:96vh;
+   padding-top: 4vh;
+   height: 96vh;
    margin: 0 10rem;
-   box-sizing:border-box;
-   min-height:fit-content;
+   box-sizing: border-box;
+   min-height: fit-content;
 }
 .section-container{ 
-    display:flex;
+    display: flex;
 }
 #profile{
-    display:flex;
-    justify-content:center;
-    gap:5rem;
-    height:80vh;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    height: 80vh;
 }
 .section__photo-container{
-    display:flex;
-    height:400px;
-    width:400px;
-    margin:auto 0;
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: auto 0;
 }
 .section__text{
-    align-self:center;
-    text-align:center;
+    align-self: center;
+    text-align: center;
 }
 .section__text p{
-    font-weight:600;
+    font-weight: 600;
 }
 .section__text__p1{
-    text-align:center;
+    text-align: center;
 }
 .section__text__p1{
-   font-size:1.75rem;
-   margin-bottom:1rem;
+   font-size: 1.75rem;
+   margin-bottom: 1rem;
 }
 .title{
-    font-size:3rem;
-    text-align:center;
+    font-size: 3rem;
+    text-align: center;
 }
 #account-container{
-    display:flex;
-    justify-content:center;
-    margin-top:1rem;
-    gap:1rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
 }
 .icon{
-    cursor:pointer;
-    height:2rem;
+    cursor: pointer;
+    height: 3rem;
 }
